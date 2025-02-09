@@ -3,7 +3,7 @@
 # Cahier des Charges - Portfolio de Développeur Web
 
 ## 1. Contexte
-Le projet consiste à créer un portfolio en ligne permettant de présenter les compétences, réalisations et parcours professionnel d'un développeur web. Cet outil servira à mettre en valeur le savoir-faire du développeur et à attirer de potentiels employeurs ou clients.
+Le projet consiste à créer un portfolio en ligne permettant de présenter les compétences, réalisations d'un élève d'école d'ingenieur en informatique. Cet outil servira à mettre en valeur le savoir-faire du développeur et à attirer de potentiels employeurs ou clients.
 
 ## 2. Public Cible
 - Recruteurs et entreprises en recherche de talents en développement web
@@ -37,8 +37,6 @@ Le projet consiste à créer un portfolio en ligne permettant de présenter les 
 ## 4. Exigences Techniques
 - **Technologies** : HTML5, CSS3, JavaScript (framework optionnel : React, Vue.js, ou autre)
 - **Responsive Design** : Site adapté à tous types d'écrans (desktop, mobile)
-- **Performance** : Optimisation du temps de chargement (lazy loading, minification des ressources)
-- **SEO** : Structure optimisée pour le référencement naturel (balises, mots-clés, sitemap XML)
 
 ## 5. Charte Graphique
 - **Palette de couleurs** :
@@ -52,14 +50,11 @@ Le projet consiste à créer un portfolio en ligne permettant de présenter les 
 
 - **Style graphique** :
   - Design minimaliste avec des espaces bien aérés
-  - Utilisation d'icônes pour illustrer les compétences et catégories
 
 ## 6. Contraintes et Réglementations
 - **Mentions légales** : Intégration d'une page de mentions légales conforme à la législation
 - **RGPD** :
-  - Ajout d'un bandeau d'acceptation des cookies
   - Formulaire de contact respectant la collecte et le traitement des données personnelles
-  - Possibilité pour les utilisateurs de demander la suppression de leurs données
 - **SEO** : Respect des bonnes pratiques pour le référencement naturel
 
 Ce cahier des charges pose les bases du projet et pourra être affiné selon les besoins évolutifs du développeur.
