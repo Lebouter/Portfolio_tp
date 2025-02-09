@@ -83,3 +83,20 @@ Ce cahier des charges pose les bases du projet et pourra être affiné selon les
 ![image](https://github.com/user-attachments/assets/cec384c4-4823-4234-9f45-532483d90614)
 
 
+# 9. Wire frame
+
+## Home:
+
+![image](https://github.com/user-attachments/assets/d142e1e7-99f8-4a76-80e5-3650ff1734d3)
+
+## Portfolio:
+
+![image](https://github.com/user-attachments/assets/9a0a0f7d-85f8-424f-9e26-b57743e5b7b1)
+
+## Contact:
+
+![image](https://github.com/user-attachments/assets/bd5c345d-9593-4549-ab1f-b4a3f9459ef3)
+
+
+
+
