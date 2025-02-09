@@ -98,5 +98,24 @@ Ce cahier des charges pose les bases du projet et pourra être affiné selon les
 ![image](https://github.com/user-attachments/assets/bd5c345d-9593-4549-ab1f-b4a3f9459ef3)
 
 
+# 10. Maquettage
+
+## Home:
+
+![image](https://github.com/user-attachments/assets/a0c9a535-7d87-487e-9858-1991f16767ab)
+
+
+## Portfolio:
+
+![image](https://github.com/user-attachments/assets/54791c14-0bc3-4ae5-88f1-fbd019dc7a12)
+
+
+## Contact:
+
+![image](https://github.com/user-attachments/assets/206bae11-3115-4a55-bde4-95830c79daa7)
+
+
+
+
 
 
