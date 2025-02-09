@@ -42,8 +42,8 @@ Le projet consiste à créer un portfolio en ligne permettant de présenter les 
 
 ## 5. Charte Graphique
 - **Palette de couleurs** :
-  - Couleur principale : Bleu foncé (##3d32d9) pour la modernité et la confiance
-  - Couleur secondaire : Bleu clair (#3290d9) pour les boutons et interactions
+  - Couleur principale : Bleu foncé (#3d32d9) pour les textes
+  - Couleur secondaire : Bleu clair (#007ced) pour les boutons, interactions et titres
   - Couleur d'accentuation : Gris (#9796a2) pour le fond
 
 - **Typographie** :
