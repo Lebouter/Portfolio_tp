@@ -64,3 +64,22 @@ Ce cahier des charges pose les bases du projet et pourra être affiné selon les
 
 ![image](https://github.com/user-attachments/assets/23508d8b-0485-4724-9811-8f90a9ccecc7)
 
+
+# 8. Charte Graphique
+
+## Logo:
+
+
+![image](https://github.com/user-attachments/assets/c7f5a562-c4da-41d3-868a-dc1554748729)
+
+
+## couleurs:
+
+![image](https://github.com/user-attachments/assets/8abd6ee9-9d73-4e32-abd4-c2a75b5ee9c3)
+
+
+## typographie:
+
+![image](https://github.com/user-attachments/assets/cec384c4-4823-4234-9f45-532483d90614)
+
+
