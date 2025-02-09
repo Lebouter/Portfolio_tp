@@ -8,25 +8,28 @@
 
 body {
     overflow-x: hidden;
-    background: #9796a2;
+    background: #222;
     color: #e5e5e5;
 }
 
 body {
     
-    background: #9796a2;
+    background: #222;
     color: #e5e5e5;
+}
+
+section{
+    background-color: #9796a2;
 }
 
 header {
     position: fixed;
     width: 100%;    
-    background: #9796a2;
-    
+    background: rgba(34, 34, 34, 0.95);
 }
 
 .NB {
-    width: 100px;
+    width: 100%;
 }
 
 
