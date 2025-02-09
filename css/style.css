@@ -8,22 +8,27 @@
 
 body {
     overflow-x: hidden;
-    background: #222;
+    background: #9796a2;
     color: #e5e5e5;
 }
 
 body {
     
-    background: #222;
+    background: #9796a2;
     color: #e5e5e5;
 }
 
 header {
     position: fixed;
     width: 100%;    
-    background: rgba(34, 34, 34, 0.95);
+    background: #9796a2;
     
 }
+
+.NB {
+    width: 100px;
+}
+
 
 nav {
     display: flex;
@@ -132,6 +137,7 @@ nav ul li{
     align-items: center;
     text-align: center;
 }
+
 
 h1 {
     font-size: 14px;

@@ -44,7 +44,7 @@ Le projet consiste à créer un portfolio en ligne permettant de présenter les 
 - **Palette de couleurs** :
   - Couleur principale : Bleu foncé (##3d32d9) pour la modernité et la confiance
   - Couleur secondaire : Bleu clair (#3290d9) pour les boutons et interactions
-  - Couleur d'accentuation : Gris (#9796a2) pour les textes
+  - Couleur d'accentuation : Gris (#9796a2) pour le fond
 
 - **Typographie** :
   - Titres : Roboto (sans-serif, moderne et lisible)
