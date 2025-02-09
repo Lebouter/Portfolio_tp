@@ -59,6 +59,8 @@ Le projet consiste à créer un portfolio en ligne permettant de présenter les 
 
 Ce cahier des charges pose les bases du projet et pourra être affiné selon les besoins évolutifs du développeur.
 
-7.UML
+# 7. UML
+
+
 ![image](https://github.com/user-attachments/assets/23508d8b-0485-4724-9811-8f90a9ccecc7)
 
